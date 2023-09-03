@@ -28,4 +28,4 @@ In the summer of 2023, I worked as a researcher at KTH's Division of Geoinformat
 
 I recently completed my Master's degree (July 2023) in Machine Learning from [KTH](https://www.kth.se/en), Stockholm, Sweden, where my master's thesis explored "Street to Aerial View Geolocalization."
 
-I'm passionate about advancing AI research and its practical applications. 
+
