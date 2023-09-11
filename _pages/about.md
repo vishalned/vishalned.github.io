@@ -20,6 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
+
 I am Vishal Nedungadi, currently a Visiting Researcher at the [Pioneer Center For AI](https://www.aicentre.dk/) at the University of Copenhagen, Denmark. My research interests encompass Deep Learning and Computer Vision, with a recent focus on practical Machine Learning applications, particularly in remote sensing. Incase you are not familiar, an example of remote sensing involves working with satellite images from satellites such as [Sentinel 2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2c).
 
 At the Pioneer Center, I'm fortunate to work under the guidance of [Nico Lang](https://langnico.github.io/) and [Serge Belongie](https://www.belongielab.org/), delving into remote sensing and representation learning, emphasizing remote sensing datasets.
@@ -28,4 +29,5 @@ In the summer of 2023, I worked as a researcher at KTH's Division of Geoinformat
 
 I recently completed my Master's degree (July 2023) in Machine Learning from [KTH](https://www.kth.se/en), Stockholm, Sweden, where my master's thesis explored "Street to Aerial View Geolocalization."
 
+**NOTE: As of 2023-09-12, this site is still a W.I.P.**
 
