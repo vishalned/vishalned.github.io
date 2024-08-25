@@ -24,7 +24,7 @@ social: false # includes social icons at the bottom of the page
 I am Vishal Nedungadi, currently a Research Associate at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) at Abu Dhabi, where I am working with [Dr. Salman Khan](https://salman-h-khan.github.io/) in the domain of weather and climate forecasting. Before this I was a Visiting Researcher at the [Pioneer Center For AI](https://www.aicentre.dk/) at the University of Copenhagen, Denmark, where I worked under the guidance of [Nico Lang](https://langnico.github.io/) and [Serge Belongie](https://www.belongielab.org/). In the summer of 2023, I also worked as a researcher at KTH, Sweden and was supervised by [Yifang Ban](https://www.kth.se/profile/yifang) and [Puzhao Zhang](https://www.kth.se/profile/puzhao). I completed my Master's degree (July 2023) in Machine Learning from [KTH](https://www.kth.se/en), Stockholm, Sweden.
 
 
-My research interests encompass Deep Learning and Computer Vision, with a recent focus on practical Machine Learning applications (environmentally focused), particularly in Remote Sensing and what I like to call eco-conscious AI. I am also very interested in startups and am constantly looking out ideas to work on. 
+My research interests encompass Deep Learning and Computer Vision, with a recent focus on practical Machine Learning applications (environmentally focused), particularly in Remote Sensing and what I like to call eco-conscious AI. My current research has led me to have a specific interest in multi-modal learning and representation learning. 
 
 Feel free to reach out to me for potential research collaborations. 
 
